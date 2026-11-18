@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "marked": "^18.2.1",
+    "mermaid": "^12.3.0",
+    "pdfjs-dist": "^6.5.438",
+    "puppeteer-core": "^25.18.1"
+  }
+}
